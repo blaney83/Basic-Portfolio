@@ -1,0 +1,51 @@
+* {
+    margin-top: 0px;
+    background-color: white;
+}
+
+#Name {
+    margin-top: 0px;
+    margin-left: 220px;
+    margin-right: 400px;
+    align-items: center;
+    background-color: aqua;
+    padding: 30px;
+    align-items: center;
+    display: inline-block;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#Bar {
+    display: inline-block;
+    border-bottom: 10px;
+    border-bottom-color: #e70c0c;
+   /*testing #*/
+}
+
+#Menu ul {
+    list-style-type: none;
+    display: inline-block;
+    background-color: grey;
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    
+}
+
+#Menu li {
+    font-size: 120%;
+    list-style-type: none;
+    background-color: none;
+    padding-right: 20px;
+    align-items: center;
+    display: inline-block;
+    margin: 30px 20px 30px 20px;
+    border-right-color: slategrey;
+    border-right-style: solid;
+    border-right-width: 1px;
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    top: 30px;
+    left: 40px;
+}
+
+
+
+
